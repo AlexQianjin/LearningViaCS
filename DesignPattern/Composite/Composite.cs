@@ -48,12 +48,12 @@ namespace Composite
             foreach (IComponent<T> c in list)
             {
                 found = c.Find(s);
-                if (found!=null)
+                if (found != null)
                 {
                     break;
                 }
-                return found;
             }
+            return found;
         }
 
         public string Display(int depth)
@@ -67,9 +67,5 @@ namespace Composite
 
             return s.ToString();
         }
-
-        
-
-        
     }
 }

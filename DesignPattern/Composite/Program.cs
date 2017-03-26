@@ -21,7 +21,7 @@ namespace Composite
                 s = t.Split();
                 command = s[0];
 
-                if (s.Length>1)
+                if (s.Length > 1)
                 {
                     parameter = s[1];
                 }
