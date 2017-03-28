@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "DesignPattern\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "DesignPattern\Flyweight\Flyweight.csproj", "{BA120245-E249-4C6E-92F1-B9DB60CF1D6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "DesignPattern\Adapter\Adapter.csproj", "{2E9DAE5B-3FF5-49D2-8671-997128D507DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{BA120245-E249-4C6E-92F1-B9DB60CF1D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA120245-E249-4C6E-92F1-B9DB60CF1D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA120245-E249-4C6E-92F1-B9DB60CF1D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9DAE5B-3FF5-49D2-8671-997128D507DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9DAE5B-3FF5-49D2-8671-997128D507DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9DAE5B-3FF5-49D2-8671-997128D507DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9DAE5B-3FF5-49D2-8671-997128D507DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +66,6 @@ Global
 		{2E7231B9-0AA2-4C44-9AD5-7B881D654549} = {E9A07DB9-E24D-40CF-B5A5-204B709C59AB}
 		{10B52A54-DB8D-4A4A-8969-89DEE1CFE701} = {E9A07DB9-E24D-40CF-B5A5-204B709C59AB}
 		{BA120245-E249-4C6E-92F1-B9DB60CF1D6D} = {E9A07DB9-E24D-40CF-B5A5-204B709C59AB}
+		{2E9DAE5B-3FF5-49D2-8671-997128D507DD} = {E9A07DB9-E24D-40CF-B5A5-204B709C59AB}
 	EndGlobalSection
 EndGlobal
