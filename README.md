@@ -8,3 +8,4 @@
 |Composite|||
 |Flyweight|||
 |Adapter|||
+|Facade|||
