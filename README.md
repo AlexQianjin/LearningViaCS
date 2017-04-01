@@ -4,7 +4,7 @@
 |-|-|-|
 |Decorator|Prototype||
 |Proxy|FactoryMethod||
-|Bridge|||
+|Bridge|Singleton||
 |Composite|||
 |Flyweight|||
 |Adapter|||
