@@ -5,7 +5,7 @@
 |Decorator|Prototype||
 |Proxy|FactoryMethod||
 |Bridge|Singleton||
-|Composite|||
+|Composite|AbstractFactory||
 |Flyweight|||
 |Adapter|||
 |Facade|||

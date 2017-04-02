@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AbstractFactory
+{
+    public interface IFactory<Brand> where Brand : IBrand
+    {
+        IBag CreateBag();
+        IShoes CreateShoes();
+    }
+}
