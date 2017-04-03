@@ -6,6 +6,6 @@
 |Proxy|FactoryMethod||
 |Bridge|Singleton||
 |Composite|AbstractFactory||
-|Flyweight|||
+|Flyweight|Builder||
 |Adapter|||
 |Facade|||
