@@ -4,7 +4,7 @@
 |-|-|-|
 |Decorator|Prototype|Strategy|
 |Proxy|FactoryMethod|State|
-|Bridge|Singleton||
+|Bridge|Singleton|TemplateMethod|
 |Composite|AbstractFactory||
 |Flyweight|Builder||
 |Adapter|||
