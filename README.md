@@ -5,7 +5,7 @@
 |Decorator|Prototype|Strategy|
 |Proxy|FactoryMethod|State|
 |Bridge|Singleton|TemplateMethod|
-|Composite|AbstractFactory||
+|Composite|AbstractFactory|ChainOfResponsibility|
 |Flyweight|Builder||
 |Adapter|||
 |Facade|||
