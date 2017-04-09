@@ -7,5 +7,5 @@
 |Bridge|Singleton|TemplateMethod|
 |Composite|AbstractFactory|ChainOfResponsibility|
 |Flyweight|Builder|Command|
-|Adapter|||
+|Adapter||Iterator|
 |Facade|||
