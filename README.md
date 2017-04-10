@@ -8,4 +8,4 @@
 |Composite|AbstractFactory|ChainOfResponsibility|
 |Flyweight|Builder|Command|
 |Adapter||Iterator|
-|Facade|||
+|Facade||Mediator|
