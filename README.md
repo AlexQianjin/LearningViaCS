@@ -9,3 +9,4 @@
 |Flyweight|Builder|Command|
 |Adapter||Iterator|
 |Facade||Mediator|
+|||Observer|
