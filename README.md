@@ -10,3 +10,4 @@
 |Adapter||Iterator|
 |Facade||Mediator|
 |||Observer|
+|||Visitor|
