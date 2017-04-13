@@ -11,3 +11,4 @@
 |Facade||Mediator|
 |||Observer|
 |||Visitor|
+|||Interpreter|
