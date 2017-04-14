@@ -12,3 +12,4 @@
 |||Observer|
 |||Visitor|
 |||Interpreter|
+|||Memento|
