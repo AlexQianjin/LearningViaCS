@@ -5,7 +5,7 @@
 |[Decorator](https://www.processon.com/view/link/58f23385e4b0f563a7c56beb)|Prototype|Strategy|
 |[Proxy](https://www.processon.com/view/link/58f234c7e4b0cb4162b696aa)|FactoryMethod|State|
 |[Bridge](https://www.processon.com/view/link/58f234f4e4b0dfe7d6bab83b)|Singleton|TemplateMethod|
-|Composite|AbstractFactory|ChainOfResponsibility|
+|[Composite](https://www.processon.com/view/link/http://v3.processon.com/view/link/58f36e0fe4b04081421137f3)|AbstractFactory|ChainOfResponsibility|
 |Flyweight|Builder|Command|
 |Adapter||Iterator|
 |Facade||Mediator|
