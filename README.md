@@ -7,7 +7,7 @@
 |[Bridge](https://www.processon.com/view/link/58f234f4e4b0dfe7d6bab83b)|Singleton|TemplateMethod|
 |[Composite](https://www.processon.com/view/link/58f36e0fe4b04081421137f3)|AbstractFactory|ChainOfResponsibility|
 |[Flyweight](https://www.processon.com/view/link/58f4b732e4b02e95ec50d682)|Builder|Command|
-|Adapter||Iterator|
+|[Adapter](https://www.processon.com/view/link/58f61ca8e4b0c9097c8d45d0)||Iterator|
 |Facade||Mediator|
 |||Observer|
 |||Visitor|
