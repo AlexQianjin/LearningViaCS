@@ -8,7 +8,7 @@
 |[Composite](https://www.processon.com/view/link/58f36e0fe4b04081421137f3)|AbstractFactory|ChainOfResponsibility|
 |[Flyweight](https://www.processon.com/view/link/58f4b732e4b02e95ec50d682)|Builder|Command|
 |[Adapter](https://www.processon.com/view/link/58f61ca8e4b0c9097c8d45d0)||Iterator|
-|Facade||Mediator|
+|[Facade](https://www.processon.com/view/link/58f76dfbe4b0dfe7d6eb5553)||Mediator|
 |||Observer|
 |||Visitor|
 |||Interpreter|
