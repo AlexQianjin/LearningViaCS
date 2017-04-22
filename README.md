@@ -13,3 +13,5 @@
 |||Visitor|
 |||Interpreter|
 |||Memento|
+### Singleton
+![Singleton](\DesignPattern\UML\Singleton.jpg)
