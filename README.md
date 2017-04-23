@@ -15,3 +15,5 @@
 |||Memento|
 ### Singleton
 ![Singleton](\DesignPattern\UML\Singleton.jpg)
+### AbstractFactory
+![AbstractFactory](\DesignPattern\UML\AbstractFactory.jpg)
