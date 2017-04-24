@@ -14,8 +14,8 @@
 |||Interpreter|
 |||Memento|
 ### Singleton
-![Singleton](\DesignPattern\UML\Singleton.jpg)
+![Singleton](DesignPattern/UML/Singleton.jpg)
 ### AbstractFactory
-![AbstractFactory](\DesignPattern\UML\AbstractFactory.jpg)
+![AbstractFactory](DesignPattern/UML/AbstractFactory.jpg)
 ### Builder
-![Builder](\DesignPattern\UML\Builder.jpg)
+![Builder](DesignPattern/UML/Builder.jpg)
