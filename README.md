@@ -19,3 +19,5 @@
 ![AbstractFactory](DesignPattern/UML/AbstractFactory.jpg)
 ### Builder
 ![Builder](DesignPattern/UML/Builder.jpg)
+### Strategy
+![Strategy](DesignPattern/UML/Strategy.jpg)
