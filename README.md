@@ -21,3 +21,7 @@
 ![Builder](DesignPattern/UML/Builder.jpg)
 ### Strategy
 ![Strategy](DesignPattern/UML/Strategy.jpg)
+### State
+![State](DesignPattern/UML/State.jpg)
+### TemplateMethod
+![TemplateMethod](DesignPattern/UML/TemplateMethod.jpg)
