@@ -25,3 +25,5 @@
 ![State](DesignPattern/UML/State.jpg)
 ### TemplateMethod
 ![TemplateMethod](DesignPattern/UML/TemplateMethod.jpg)
+### ChainOfResponsibility
+![ChainOfResponsibility](DesignPattern/UML/ChainOfResponsibility.jpg)
