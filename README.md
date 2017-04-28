@@ -27,3 +27,5 @@
 ![TemplateMethod](DesignPattern/UML/TemplateMethod.jpg)
 ### ChainOfResponsibility
 ![ChainOfResponsibility](DesignPattern/UML/ChainOfResponsibility.jpg)
+### Command
+![Command](DesignPattern/UML/Command.jpg)
