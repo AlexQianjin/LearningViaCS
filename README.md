@@ -29,3 +29,5 @@
 ![ChainOfResponsibility](DesignPattern/UML/ChainOfResponsibility.jpg)
 ### Command
 ![Command](DesignPattern/UML/Command.jpg)
+### Iterator
+![Iterator](DesignPattern/UML/Iterator.jpg)
