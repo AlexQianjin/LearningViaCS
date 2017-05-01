@@ -31,3 +31,5 @@
 ![Command](DesignPattern/UML/Command.jpg)
 ### Iterator
 ![Iterator](DesignPattern/UML/Iterator.jpg)
+### Mediator
+![Mediator](DesignPattern/UML/Mediator.jpg)
