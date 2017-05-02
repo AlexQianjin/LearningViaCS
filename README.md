@@ -33,3 +33,5 @@
 ![Iterator](DesignPattern/UML/Iterator.jpg)
 ### Mediator
 ![Mediator](DesignPattern/UML/Mediator.jpg)
+### Observer
+![Observer](DesignPattern/UML/Observer.jpg)
