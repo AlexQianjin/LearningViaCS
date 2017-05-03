@@ -35,3 +35,9 @@
 ![Mediator](DesignPattern/UML/Mediator.jpg)
 ### Observer
 ![Observer](DesignPattern/UML/Observer.jpg)
+### Visitor
+![Visitor](DesignPattern/UML/Visitor.jpg)b
+### Interpreter
+![Interpreter](DesignPattern/UML/Interpreter.jpg)
+### Memento
+![Memento](DesignPattern/UML/Memento.jpg)
