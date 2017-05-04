@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LearningViaCS": {
+      "commandName": "Project",
+      "commandLineArgs": "Temp.txt"
+    }
+  }
+}
