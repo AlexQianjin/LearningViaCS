@@ -3,6 +3,7 @@ using System.Text;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.IO;
+using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 
 using LearningViaCS.Domain.Model;
@@ -23,6 +24,14 @@ namespace LearningViaCS
             string path = currentPath + $"\\{args[0]}";
             string inputFile = File.ReadAllText(path);
             string outputPath = currentPath + $"\\_{args[0]}";
+            string input = "obj.Select strValue";
+            string parttern = "(?<base>\\w+\\.\\w+)\\s(?<name>\\w+)";
+            string replacement = "${base}(${name})";
+            if (Regex.IsMatch(input,parttern))
+            {
+                input = Regex.Replace(input, parttern, replacement);
+            }
+            Console.WriteLine(input);
 
             using (FileStream fs = new FileStream(outputPath, FileMode.Create))
             {
