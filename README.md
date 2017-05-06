@@ -13,6 +13,12 @@
 |||Visitor|
 |||Interpreter|
 |||Memento|
+### Decorator
+![Decorator](DesignPattern/UML/Decorator.jpg)
+### Proxy
+![Proxy](DesignPattern/UML/Proxy.jpg)
+### Bridge
+![Bridge](DesignPattern/UML/Bridge.jpg)
 ### Singleton
 ![Singleton](DesignPattern/UML/Singleton.jpg)
 ### AbstractFactory
