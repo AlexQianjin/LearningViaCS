@@ -19,6 +19,8 @@
 ![Proxy](DesignPattern/UML/Proxy.jpg)
 ### Bridge
 ![Bridge](DesignPattern/UML/Bridge.jpg)
+### Composite
+![Composite](DesignPattern/UML/Composite.jpg)
 ### Singleton
 ![Singleton](DesignPattern/UML/Singleton.jpg)
 ### AbstractFactory
