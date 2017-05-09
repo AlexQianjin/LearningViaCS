@@ -21,6 +21,10 @@
 ![Bridge](DesignPattern/UML/Bridge.jpg)
 ### Composite
 ![Composite](DesignPattern/UML/Composite.jpg)
+### Flyweight
+![Flyweight](DesignPattern/UML/Flyweight.jpg)
+### Adapter
+![Adapter](DesignPattern/UML/Adapter.jpg)
 ### Singleton
 ![Singleton](DesignPattern/UML/Singleton.jpg)
 ### AbstractFactory
