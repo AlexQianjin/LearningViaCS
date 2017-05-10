@@ -25,6 +25,12 @@
 ![Flyweight](DesignPattern/UML/Flyweight.jpg)
 ### Adapter
 ![Adapter](DesignPattern/UML/Adapter.jpg)
+### Facade
+![Facade](DesignPattern/UML/Facade.jpg)
+### Prototype
+![Prototype](DesignPattern/UML/Prototype.jpg)
+### FactoryMethod
+![FactoryMethod](DesignPattern/UML/FactoryMethod.jpg)
 ### Singleton
 ![Singleton](DesignPattern/UML/Singleton.jpg)
 ### AbstractFactory
